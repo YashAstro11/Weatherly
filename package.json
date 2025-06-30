@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "axios": "^1.10.0",
     "expo": "~53.0.13",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-location": "~18.1.5",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.4"
+    "react-dom": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-web": "^0.20.0",
+    "use-debounce": "^10.0.5",
+    "@expo/vector-icons": "^14.1.0",
+    "react-native-reanimated": "~3.17.4",
+    "lottie-react-native": "7.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
