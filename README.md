@@ -32,14 +32,15 @@ Built with **Expo** and **React Native**, it delivers a clean UI, location-based
    git clone https://github.com/your-username/wetherly.git
    cd wetherly
 2. Install dependencies
+   ```bash
     npm install
     # or
     yarn install
-3. Add your OpenWeatherMap API key
+4. Add your OpenWeatherMap API key
     Create a .env file in the root folder
     Add:
     ```bash
     WEATHER_API_KEY=your_api_key_here
-4. Start the app
+5. Start the app
     ```bash
     npx expo start
