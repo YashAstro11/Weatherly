@@ -1,4 +1,4 @@
-# 🌦️ Wetherly
+# 🌦️ Weatherly
 
 Wetherly is a modern **React Native weather app** that provides real-time weather updates and forecasts.  
 Built with **Expo** and **React Native**, it delivers a clean UI, location-based weather data, and a smooth user experience.
